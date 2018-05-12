@@ -1,9 +1,13 @@
 _repo: Moral-Tales_47485
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Burke, L.
     gutenberg_agent_id: '44340'
     url: http://www.gutenberg.org/2009/agents/44340
+covers:
+- cover_type: archival
+  image_path: 47485-h/images/cover.jpg
 creator:
   author:
     agent_name: Guizot, Madame (Elisabeth Charlotte Pauline)
@@ -17,6 +21,8 @@ creator:
     gutenberg_agent_id: '5463'
     url: http://www.gutenberg.org/2009/agents/5463
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47485#Moral-Tales
 gutenberg_issued: '2014-11-29'
 gutenberg_type: Text
 identifiers:
